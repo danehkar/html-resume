@@ -135,7 +135,7 @@
                 <button data-action="print" title="Print">Print</button>
             </div>
             <div id="github-link">     
-                <a class="github-button" href="https://github.com/Tombarr/html-resume-template" data-size="large" data-show-count="true" aria-label="Star Tombarr/html-resume-template on GitHub">Star</a>
+                <a class="github-button" href="https://github.com/danehkar/html-resume" data-size="large" data-show-count="true" aria-label="Ashkbiz Danehkar/html-resume on GitHub">Ashkbiz Danehkar</a>
             </div>`;
         var docControls = htmlToElement(docControlsStr);
         document.body.appendChild(docControls);
